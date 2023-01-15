@@ -1,8 +1,8 @@
 {
-    "name": "vinaria - launcher",
+    "name": "vinaria-launcher",
     "preductname": "vinaria - launcher",
     "version": "1.0.1",
-    "description": "vinari modded server launcher",
+    "description": "vinaria modded server launcher",
     "main": "src/app.js",
     "author": "vexato",
     "url": "https://test.axoworld.fr/",
