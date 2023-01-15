@@ -1,7 +1,7 @@
 {
     "name": "vinaria - launcher",
     "preductname": "vinaria - launcher",
-    "version": "2.1.9",
+    "version": "1.0.0",
     "description": "vinari modded server launcher",
     "main": "src/app.js",
     "author": "vexato",
